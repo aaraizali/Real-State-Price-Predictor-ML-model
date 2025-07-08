@@ -1,0 +1,14 @@
+# Ignore data you don't want to push
+housing.data
+housing.names
+Output from different models/
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+env/
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/

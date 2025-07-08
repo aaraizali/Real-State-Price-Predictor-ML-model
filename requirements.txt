@@ -1,0 +1,8 @@
+
+```txt
+streamlit
+streamlit-lottie
+scikit-learn
+joblib
+numpy
+pandas
